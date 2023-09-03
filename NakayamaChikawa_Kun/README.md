@@ -1,0 +1,2 @@
+# NakayamaChikawaKun
+ちいかわとなかやまきんにくんの音声の再生をする
